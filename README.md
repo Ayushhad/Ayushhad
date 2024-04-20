@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Aditya</h1>
 <h3 align="center">Pre-Final Year Computer Science and Applied Math undergrad at IIIT Delhi and a Full stack WebDeveloper Enthusiast.</h3>
-<img align = "right" alt="coding" width="400" src=862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3>
 
-- 🔭 I’m currently working on [IIITD-CSE Website Redisign](https://github.com/aryanteng/iiitd-cse)
+- 🔭 I’m currently working on [  IIITD-CSE Website Redisign](https://github.com/aryanteng/iiitd-cse)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EN-jZcRhpHMm9OiwaYPAHTpblbZ_3Ngr/view?usp=sharing](https://drive.google.com/file/d/1EN-jZcRhpHMm9OiwaYPAHTpblbZ_3Ngr/view?usp=sharing)
 
