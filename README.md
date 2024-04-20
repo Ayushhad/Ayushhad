@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [  IIITD-CSE Website Redisign](https://github.com/aryanteng/iiitd-cse)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EN-jZcRhpHMm9OiwaYPAHTpblbZ_3Ngr/view?usp=sharing](https://drive.google.com/file/d/1EN-jZcRhpHMm9OiwaYPAHTpblbZ_3Ngr/view?usp=sharing)
+- 📄 Know about my experiences [Ayush's Resume](https://drive.google.com/file/d/1EN-jZcRhpHMm9OiwaYPAHTpblbZ_3Ngr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
