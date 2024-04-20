@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushhad&show_icons=true&locale=en&layout=compact" alt="ayushhad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhad&" alt="ayushhad" /></p>
+'''<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhad&" alt="ayushhad" /></p>'''
